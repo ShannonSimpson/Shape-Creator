@@ -15,10 +15,10 @@ The program will then output the vector to the console and repeat for the durati
 Input to the program will consist of raw text in a series of words, numbers, or symbols. 
 
 The commands used will be:
-# rows – Generate the two-dimensional vector with the specified number of rows 
+number of rows – Generate the two-dimensional vector with the specified number of rows 
           (note that “#” will be replaced with an integer)
           
-# columns – Generate the two-dimensional vector with the specified number of columns 
+number of columns – Generate the two-dimensional vector with the specified number of columns 
           (note that “#” will be replaced with an integer)
           
 all c – Use the specified character (“c” will be replaced with a non-space, non-numeric character) 
